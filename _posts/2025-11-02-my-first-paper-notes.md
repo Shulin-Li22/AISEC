@@ -1,21 +1,38 @@
 ---
-# 每一篇笔记都需要有这个 "Front Matter"
-layout: post
+layout: single  # 使用 single 布局
 title: "我的第一篇论文笔记 (测试)"
 date: 2025-11-02
+
+# (可选) 添加标签和分类
+tags:
+  - 测试
+  - 笔记
+categories:
+  - General
+
+# (可选) 摘要，会显示在主页的文章列表里
+excerpt: "这是我的第一篇笔记！我正在测试 Minimal Mistakes 主题。"
 ---
 
 ## 摘要
 
-这是我的第一篇笔记！我正在测试我的 GitHub Pages 博客。
+这是我的第一篇笔记！
 
-## 关键点
+## 数学公式测试
 
-* GitHub Pages 非常方便。
-* Jekyll 可以自动把 Markdown 转成 HTML。
+因为我们在 `_config.yml` 里开启了 `mathjax: true`，现在你可以直接写 LaTeX 了：
 
-## 数学公式测试 (可选)
+行内公式：$E = mc^2$
 
-我之后可能会需要写数学公式，比如 $\LaTeX$：
+块级公式：
+$$
+\sum_{i=1}^{n} i = \frac{n(n+1)}{2}
+$$
 
-$$E = mc^2$$
+## 目录测试
+
+我们在 `_config.yml` 里也开启了 `toc: true`，所以目录会自动在文章开头出现！
+
+### 这是一个三级标题
+
+它也会出现在目录里。
