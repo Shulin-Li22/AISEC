@@ -1,0 +1,7 @@
+# 博客信息
+title: "AISEC"
+author: "Shulin Li"
+description: "This is Shulin Li's Blog, which aims at documenting his ideas/thoughts on reading research papers related to Artificial Intelligence (AI) and Artificial Intelligence Security"
+
+# 构建设置
+theme: jekyll-theme-minimal
