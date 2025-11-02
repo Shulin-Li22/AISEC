@@ -1,10 +1,45 @@
-# 博客信息
+# --- 欢迎信息与基础设置 ---
 title: "AISEC"
 author: "Shulin Li"
 description: "This is Shulin Li's Blog, which aims at documenting his ideas/thoughts on reading research papers related to Artificial Intelligence (AI) and Artificial Intelligence Security"
+# 博客网址
+url: "https://shulin-li22.github.io/AISEC" 
 
-# 构建设置
-theme: jekyll-theme-minimal
+# --- 主题设置 ---
+# 使用 Minimal Mistakes
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "default" # "air", "dark", "aqua" 
 
-footer_links:
-  github: "Shulin-Li22"
+# --- 关键插件 ---
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# --- 默认设置 ---
+defaults:
+  # 针对 _posts 文件夹里的所有文件
+  - scope:
+      path: "_posts"
+      type: "posts"
+    values:
+      layout: "single"          # 统一使用 'single' 布局
+      author_profile: true    # 默认显示左侧的作者栏
+      read_time: true         # 自动计算阅读时间
+      toc: true               # 自动开启文章目录 (TOC)
+      toc_label: "目录"
+      toc_icon: "bars"
+      toc_sticky: true        # 目录在滚动时保持在屏幕上
+      mathjax: true           # 默认开启数学公式支持
+
+# --- 作者信息 (显示在左侧边栏) ---
+author:
+  name: "Shulin LI"
+  bio: "My research interests is AI and AI Security."
+  location: "Beijing, China"
+  links:
+    # - label: "Email"
+    #   icon: "fas fa-fw fa-envelope-square"
+    #   url: "mailto:你的邮箱@example.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Shulin-Li22"
