@@ -5,3 +5,6 @@ description: "This is Shulin Li's Blog, which aims at documenting his ideas/thou
 
 # 构建设置
 theme: jekyll-theme-minimal
+
+footer_links:
+  github: "Shulin-Li22"
