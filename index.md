@@ -19,7 +19,7 @@ I am currently an undergraduate student in [Beijing University of Posts and Tele
 
 I will continue my study at Huazhong University of Science and Technology, major in LLM Security.
 
-As a bilinguist, my first language is Chinese, and English is my second language. Hence, my blog will be in both Chinese and English, depending on the situation.
+As a bilingual, my native language is Chinese, and English is my second language. Therefore, my blog will feature content in either Chinese or English (I will try my best to update a English version), depending on the context.
 
 If there is no special situation, I will try to update my blog once a week.
 
