@@ -15,9 +15,14 @@ This blog is aimed at documenting my personal thoughts/understanding when I read
 
 I named this blog **"AISEC"**, which is the abbreviation of **"AI"** and  **"Security"**.
 
-
-I am currently a undergraduate student in [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn) and [Queen Mary University of London (QMUL)](https://www.qmul.ac.uk), which is the joint programme between BUPT and QMUL.
+I am currently an undergraduate student in [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn) and [Queen Mary University of London (QMUL)](https://www.qmul.ac.uk), which is the joint programme between BUPT and QMUL.
 
 I will continue my study at Huazhong University of Science and Technology, major in LLM Security.
 
+As a bilinguist, my first language is Chinese, and English is my second language. Hence, my blog will be in both Chinese and English, depending on the situation.
+
+If there is no special situation, I will try to update my blog once a week.
+
 My blog content will update very soon!
+
+[updated on Nov. 3rd, 2025]
