@@ -1,3 +1,20 @@
+---
+layout: single  # 使用 single 布局
+title: "Tuna: Instruction Tuning using Feedback from Large Language Models"
+date: 2025-11-07
+
+# (可选) 添加标签和分类
+tags:
+  - Blog
+  - LLM_Security
+  - Instruction Tuning
+categories:
+  - LLM_Security
+
+# (可选) 摘要，会显示在主页的文章列表里
+excerpt: "本文提出了一种利用新颖的概率排序和上下文排序方法来微调指令调整后的 LLM，甚至可以获得比几个强大的强化学习基线更好的结果。"
+---
+
 # Overview
 
 这篇文章主要介绍了一种名为 **Tuna** 的新方法，旨在通过“指令调优”（Instruction Tuning）来提升开源大型语言模型（LLMs）的性能。
