@@ -15,8 +15,6 @@ categories:
 excerpt: "这是一篇非常有意思的论文，它通过一种全新的视角——让大模型“自己解释自己”——来研究大模型的后门攻击（Backdoor Attacks）现象"
 ---
 
-# Understanding LLM Backdoor Attacks Through Model-Generated Explanations
-
 这是一篇非常有意思的论文，它通过一种全新的视角——让大模型“自己解释自己”——来研究大模型的后门攻击（Backdoor Attacks）现象。
 
 
