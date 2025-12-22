@@ -1,6 +1,6 @@
 ---
 layout: single  # 使用 single 布局
-title: "Understanding LLM Backdoor Attacks Through Model-Generated Explanations"
+title: "JAILBREAK ANTIDOTE: RUNTIME SAFETY-UTILITY  BALANCE VIA SPARSE REPRESENTATION ADJUSTMENT IN LARGE LANGUAGE MODELS"
 date: 2025-12-22
 
 # (可选) 添加标签和分类
