@@ -153,7 +153,7 @@ InverTune 被定位为首个在**极低攻击者假设**（不需要知道攻击
 
 
 
-# INVERTUNE: DETAILED CONSTRUCTION”
+## INVERTUNE: DETAILED CONSTRUCTION
 
 InverTune 的防御过程由三个关键步骤组成：基于对抗扰动的目标识别、触发器逆向以及基于激活聚类的微调 。
 
